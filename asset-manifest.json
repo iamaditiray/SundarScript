@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SundarScript/static/css/main.aed86d3d.css",
+    "main.js": "/SundarScript/static/js/main.f91caa6a.js",
+    "static/js/787.1dca7df5.chunk.js": "/SundarScript/static/js/787.1dca7df5.chunk.js",
+    "index.html": "/SundarScript/index.html",
+    "main.aed86d3d.css.map": "/SundarScript/static/css/main.aed86d3d.css.map",
+    "main.f91caa6a.js.map": "/SundarScript/static/js/main.f91caa6a.js.map",
+    "787.1dca7df5.chunk.js.map": "/SundarScript/static/js/787.1dca7df5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aed86d3d.css",
+    "static/js/main.f91caa6a.js"
+  ]
+}
