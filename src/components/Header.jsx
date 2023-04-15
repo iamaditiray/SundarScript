@@ -5,14 +5,14 @@ const Container = styled(AppBar)`
     background: #060606;
     position: static;
     border-bottom: 1px solid #2f2f2f;
-    height: 9vh;
+    height: 7vh;
 `;
 
 const Header = () => {
   return (
     <Container>
       <Toolbar>
-        <img src={SundarScriptLogo} alt="SundarScript Logo" style={{transform: "scale(0.8)"}}/>
+        <img src={SundarScriptLogo} alt="SundarScript Logo" style={{transform: "scale(0.5)"}}/>
       </Toolbar>
     </Container>
   );
