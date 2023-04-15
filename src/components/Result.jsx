@@ -3,7 +3,7 @@ import { DataContext } from '../context/DataProvider';
 import { Box, styled } from '@mui/material';
 
 const Container = styled(Box)`
-    height: 41vh;
+    height: 40vh;
 `
 
 const Result = () => {
